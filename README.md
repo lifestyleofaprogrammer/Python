@@ -15,6 +15,19 @@ Learning Objectives: Getting started with Jupyter Notebooks / Atom
  - Scraping the web with Beautiful Soup
 
 Day 1: Preparation, Collect Data, Install Python 3.7, Atom IDE
+ - DataFrame objects 
+   - Acts like a spreadsheet in Excel
+   - Made up of a set of Series objects
+   - Indexable
+ - Series object is a single row or column that is indexed
+ - Comparison Operators in Python
+  == True if values of two operands are equal
+  != True if values of two operands are unequal
+  <> True if values of two operands are unequal
+  >  True if the left operand has a value that's greater than the right operand
+  <  True if the left operand has a value that's less than the right operand
+  >=  True if the left operand has a value that's greater than or equal to the right
+  <=  True if the left operand has a value that's less than or equal to the right
  
 Day 2:  
 
